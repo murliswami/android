@@ -4,7 +4,7 @@
 
 # Pull To Refresh Views for Android
 
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/ÏÂÀ­Ë¢ÐÂ-PullToRefresh/header_graphic.png)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0-PullToRefresh/header_graphic.png)
 
 This project aims to provide a reusable Pull to Refresh widget for Android. It was originally based on Johan Nilsson's [library](https://github.com/johannilsson/android-pulltorefresh) (mainly for graphics, strings and animations), but these have been replaced since.
 
