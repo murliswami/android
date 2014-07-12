@@ -31,3 +31,9 @@ android项目整理
 
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/用户手势指引-ShowcaseView/1.gif)
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/用户手势指引-ShowcaseView/2.gif)
+
+###抽屉菜单-SlideMenu
+
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/抽屉菜单-SlideMenu/1.gif)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/抽屉菜单-SlideMenu/2.gif)
+
