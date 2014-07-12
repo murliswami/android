@@ -5,10 +5,9 @@ Interactive paging indicator widget, compatible with the `ViewPager` from the
 Android Support Library. 
 
 Try out the sample application [on the Play Store][3].
-
-![Screenshot](https://github.com/qiushurong/PagerSlidingTabStrip-页面滑动和换肤/1.gif)
+![Screenshot](https://github.com/qiushurong/android/blob/master/PagerSlidingTabStrip-页面滑动和换肤/1.gif)
 .
-![Screenshot](https://github.com/qiushurong/PagerSlidingTabStrip-页面滑动和换肤/2.gif)
+![Screenshot](https://github.com/qiushurong/android/blob/master/PagerSlidingTabStrip-页面滑动和换肤/2.gif)
 Usage
 =====
 
