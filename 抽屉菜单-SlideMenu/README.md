@@ -2,8 +2,8 @@ MenuDrawer
 ==========
 ###³éÌë²Ëµ¥-SlideMenu
 
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/³éÌë²Ëµ¥-SlideMenu/1.gif)
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/³éÌë²Ëµ¥-SlideMenu/2.gif)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/%E6%8A%BD%E5%B1%89%E8%8F%9C%E5%8D%95-SlideMenu/1.gif)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/%E6%8A%BD%E5%B1%89%E8%8F%9C%E5%8D%95-SlideMenu/2.gif)
 
 A slide-out menu implementation, which allows users to navigate between views
 in your app. Most commonly the menu is revealed by either dragging the edge
