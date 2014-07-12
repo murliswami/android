@@ -26,8 +26,4 @@ android项目整理
 
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/1.gif)
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/2.gif)
-
-
-###文本框格式验证-FormEditText
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/文本框格式验证-FormEditText/1.png)
-
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/3.gif)
