@@ -6,14 +6,14 @@ android项目整理
 
 ###页面滑动和换肤  PagerSlidingTabStrip
 
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/PagerSlidingTabStrip-%E9%A1%B5%E9%9D%A2%E6%BB%91%E5%8A%A8%E5%92%8C%E6%8D%A2%E8%82%A4/1.gif)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/页面滑动和换肤-PagerSlidingTabStrip/1.gif)
 .
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/PagerSlidingTabStrip-%E9%A1%B5%E9%9D%A2%E6%BB%91%E5%8A%A8%E5%92%8C%E6%8D%A2%E8%82%A4/2.gif)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/页面滑动和换肤-PagerSlidingTabStrip/2.gif)
 
 
 ###下拉刷新   PullToRefresh
 
-![Screenshot](https://github.com/chrisbanes/Android-PullToRefresh/raw/master/header_graphic.png)
+![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/下拉刷新-PullToRefresh/header_graphic.png)
 
 
 
