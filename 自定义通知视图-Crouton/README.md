@@ -6,4 +6,3 @@
 
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/1.gif)
 ![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/2.gif)
-![Screenshot](https://raw.githubusercontent.com/qiushurong/android/master/自定义通知视图-Crouton/3.gif)
